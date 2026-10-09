@@ -1,0 +1,20 @@
+ccxt
+websockets
+aiostream
+aiosqlite
+aioitertools
+aiohttp
+orjson
+
+alive-progress
+
+pandas
+numpy
+scipy
+matplotlib
+lightgbm
+scikit-learn
+
+pyarrow
+
+# pip uninstall aiodns pycares -y
